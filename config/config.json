@@ -1,0 +1,16 @@
+{
+    "testnet": {
+        "fxRoot": {
+            "address": "0x3d1d3E34f7fB6D26245E6640E1c50710eFFf15bA"
+        },
+        "checkpointManager": {
+            "address": "0x2890bA17EfE978480615e330ecB65333b880928e"
+        },
+        "fxERC20Permit": {
+            "address": "0x39BbC85726BeBc853ED5F4F4E2DfDF411aB4da0E"
+        },
+        "tunnelRoot": {
+            "address": "0xAB25db8d5734Ab10188456ec2757A930e72023A8"
+        }
+    }
+} 
